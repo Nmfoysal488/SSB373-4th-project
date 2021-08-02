@@ -1,0 +1,323 @@
+
+
+header{
+
+    overflow: hidden;
+    
+    width: 89%;
+    
+    margin: 2% 5%;
+    
+    margin-bottom: 35px;
+    
+    }
+                .logo{
+                
+            width: 30%;
+                
+            float: left;
+                
+            margin-top: 5px;
+                }
+                .logo img{
+                
+                }
+                nav{
+                
+                width: 70%;
+                
+                float: right;
+                
+                overflow: hidden;
+                }
+                nav ul{
+                
+            list-style: none;
+                
+            float: right;
+                
+            overflow: hidden;
+                }
+                nav ul li{
+                
+            float: left;
+                
+            margin-left: 125px;
+                }
+                nav ul li a{
+                
+            text-decoration: none;
+                
+            text-align: right;
+                
+            font-size: 20px;
+                
+            color: black;
+                }
+        .banner-part{
+        
+        }
+        .banner-first{
+        
+        width: 90%;
+        
+        margin-left: 5%;
+        }
+        .banner-first img{
+        
+        width: 100%;
+        }
+        .banner-second{
+        
+        width: 80%;
+        
+        margin-left: 10%;
+        
+        margin-top: 100px;
+        }
+        .banner-second p span{
+        
+        text-transform: uppercase;
+        }
+        .banner-second h1{
+        
+font-size: 38px;
+        
+font-family: initial;
+        
+color: #8B8B8B;
+        }    
+        .banner-second p{
+        
+        }
+        .banner-second a{
+            
+        text-decoration: none;
+            
+        color: black;
+        } 
+        
+        .first-content{
+        
+        width: 80%;
+        
+        margin-left: 10%;
+        
+        overflow: hidden;
+        
+        margin-top: 60px;
+        
+        margin-bottom: 60px;
+        }
+        .first-left{
+        
+        width: 45%;
+        
+        float: left;
+        
+        margin-right: 5%;
+        }
+        .first-left img{
+        
+        width: 100%;
+        }
+        .first-left h1{
+        
+font-size: 35px;
+        
+color: #686868;
+        }
+        .first-left h2{
+        
+color: #b3b2b2;
+        
+text-transform: uppercase;
+        }
+        .first-right{
+        
+        width: 45%;
+        
+        float: left;
+        
+        margin-left: 5%;
+        }
+        .first-right img{
+        
+        width: 100%;
+        }    
+        .first-right h1{
+        
+font-size: 35px;
+        
+color: #686868;
+        }      
+        .first-right h2{
+            
+color: #b3b2b2;
+            
+text-transform: uppercase;
+        }
+        
+        .second-content{
+        
+        width: 80%;
+        
+        overflow: hidden;
+        
+        margin: 10%;
+        }
+        .second-left{width: 45%;float: left;margin-right: 5%;}     
+        .second-left img{
+        
+        width: 100%;
+        }        
+        .second-left h1{
+            
+font-size: 35px;
+            
+color: #686868;
+        }        
+        .second-left h2{
+        
+color: #b3b2b2;
+        
+text-transform: uppercase;
+        }
+        .second-right{
+        
+        width: 45%;
+        
+        float: left;
+        
+        margin-left: 5%;
+        }
+        .second-right img{
+        
+        width: 100%;
+        }
+        .second-right h1{
+        
+font-size: 35px;
+        
+color: #686868;
+        }
+        .second-right h2{
+            
+color: #b3b2b2;
+            
+text-transform: uppercase;
+        }       
+    .third-content{
+    
+background: #EFEFEF;
+    
+padding: 7% 32%;
+    }            
+    .third-mail{
+    
+    border-bottom: 1px solid;
+    }           
+    .third-mail h1{
+    
+    font-size: 42px;
+    }           
+    .third-mail input{
+        
+    font-size: 15px;
+        
+    border: none;
+        
+    margin-top: 35px;
+    }  
+    .third-mail h2{
+    
+    }
+
+.fourth-content{
+    
+width: 80%;
+    
+margin: 5% 10%;
+    
+overflow: hidden;
+} 
+.fourth-left{
+
+width: 45%;
+
+float: left;
+}
+.fourth-left img{
+
+width: 100%;
+}
+.fourth-left h1{
+
+font-size: 35px;
+
+color: #686868;
+}
+.fourth-left h2{
+
+color: #b3b2b2;
+
+text-transform: uppercase;
+}
+.fourth-right{
+
+width: 45%;
+
+float: right;
+}
+.fourth-right img{
+
+width: 100%;
+}   
+.fourth-right h1{
+
+font-size: 35px;
+
+color: #686868;
+}
+.fourth-right h2{
+
+color: #b3b2b2;
+
+text-transform: uppercase;
+}             
+
+button{
+    
+width: 10%;
+    
+height: 33%;
+    
+margin-left: 45%;
+    
+margin-bottom: 10%;
+    
+padding: 12px;
+    
+border-radius: 7px;
+    
+color: #000000;
+}
+footer{overflow: hidden;background: #EFEFEF;}
+footer h3{
+
+width: 40%;
+
+float: left;
+
+margin-left: 9%;
+}
+footer h4{
+    
+width: 40%;
+    
+float: right;
+    
+text-align: right;
+    
+margin-right: 10%;
+}
